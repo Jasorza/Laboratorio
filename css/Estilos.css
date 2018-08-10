@@ -1,0 +1,43 @@
+h1 {
+	color: red;
+	text-align: right:
+}
+h2 {
+	color: red;
+	background-color: green;
+}
+h3 {
+	color: white;
+	background-color: green;
+}
+.s1{
+	color: red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+.em1{
+	color: red;
+	background-color: yellow;
+}
+.g1{
+	color: white;
+	background-color: gray;
+}
+.r1{
+	background-color: red;
+}
+.v1{
+	background-color: green;
+}
+.u1{
+	color: white;
+	background-color: green;
+}
+.b1{
+	color: white;
+	background-color: black;
+}
+.gray1{
+	background-color: gray;
+}
+
